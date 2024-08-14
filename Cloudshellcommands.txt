@@ -1,0 +1,15 @@
+Cloudshell commands
+
+git clone <paste clone url>
+enter git credentials for your iam user
+ls
+cd <repository name>
+ls
+aws s3 cp s3://ttt-wildrydes/wildrydes-site ./ --recursive
+git add.
+git commit -m "initial commit"
+git config --global user.email "enteryouremailid"
+git config --global user.name "enteryouriamusername"
+git commit -m "initial commit"
+git push
+Enter your iam user git credentuials
